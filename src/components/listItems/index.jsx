@@ -13,34 +13,34 @@ import * as React from "react";
 export const mainListItems = (
   <React.Fragment>
     <ListItemButton>
-      <ListItemIcon>
+      <ListItemIcon sx={{ ml: 1 }}>
         <DashboardIcon />
       </ListItemIcon>
-      <ListItemText primary="Dashboard" />
+      <ListItemText primary="Quadro Financeiro" />
     </ListItemButton>
     <ListItemButton>
-      <ListItemIcon>
+      <ListItemIcon sx={{ ml: 1 }}>
         <ShoppingCartIcon />
       </ListItemIcon>
-      <ListItemText primary="Orders" />
+      <ListItemText primary="Pedidos" />
     </ListItemButton>
     <ListItemButton>
-      <ListItemIcon>
+      <ListItemIcon sx={{ ml: 1 }}>
         <PeopleIcon />
       </ListItemIcon>
-      <ListItemText primary="Customers" />
+      <ListItemText primary="Vendedores" />
     </ListItemButton>
     <ListItemButton>
-      <ListItemIcon>
+      <ListItemIcon sx={{ ml: 1 }}>
         <BarChartIcon />
       </ListItemIcon>
-      <ListItemText primary="Reports" />
+      <ListItemText primary="Relatórios" />
     </ListItemButton>
     <ListItemButton>
-      <ListItemIcon>
+      <ListItemIcon sx={{ ml: 1 }}>
         <LayersIcon />
       </ListItemIcon>
-      <ListItemText primary="Integrations" />
+      <ListItemText primary="Integrações" />
     </ListItemButton>
   </React.Fragment>
 );
@@ -48,25 +48,25 @@ export const mainListItems = (
 export const secondaryListItems = (
   <React.Fragment>
     <ListSubheader component="div" inset>
-      Saved reports
+      Relatórios
     </ListSubheader>
     <ListItemButton>
-      <ListItemIcon>
+      <ListItemIcon sx={{ ml: 1 }}>
         <AssignmentIcon />
       </ListItemIcon>
-      <ListItemText primary="Current month" />
+      <ListItemText primary="Mês atual" />
     </ListItemButton>
     <ListItemButton>
-      <ListItemIcon>
+      <ListItemIcon sx={{ ml: 1 }}>
         <AssignmentIcon />
       </ListItemIcon>
-      <ListItemText primary="Last quarter" />
+      <ListItemText primary="Último trimestre" />
     </ListItemButton>
     <ListItemButton>
-      <ListItemIcon>
+      <ListItemIcon sx={{ ml: 1 }}>
         <AssignmentIcon />
       </ListItemIcon>
-      <ListItemText primary="Year-end sale" />
+      <ListItemText primary="Comparativo ano" />
     </ListItemButton>
   </React.Fragment>
 );

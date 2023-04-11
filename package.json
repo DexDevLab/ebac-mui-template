@@ -1,7 +1,7 @@
 {
   "name": "ebac-mui-template",
   "description": "Template utilizando Material UI como Design System para o exercício do Módulo 38 do curso 'Profissão: Engenheiro Front-End' da Instituição EBAC - Escola Britânica de Artes Criativas e Tecnologia",
-  "version": "v1.0.0",
+  "version": "v2.0.0-230411-beta",
   "license": "MIT",
   "private": true,
   "scripts": {

@@ -26,12 +26,12 @@ import Orders from '@components/Orders';
 function Copyright(props) {
   return (
     <Typography variant="body2" color="text.secondary" align="center" {...props}>
-      {'Copyright © '}
-      <Link color="inherit" href="https://mui.com/">
-        Your Website
-      </Link>{' '}
+      {"Copyright © "}
+      <Link color="inherit" href="https://github.com/DexDevLab">
+        Daniel Almeida
+      </Link>{" "}
       {new Date().getFullYear()}
-      {'.'}
+      {"."}
     </Typography>
   );
 }
@@ -119,7 +119,7 @@ function DashboardContent() {
               noWrap
               sx={{ flexGrow: 1 }}
             >
-              Dashboard
+              Quadro Financeiro
             </Typography>
             <IconButton color="inherit">
               <Badge badgeContent={4} color="secondary">
@@ -161,6 +161,17 @@ function DashboardContent() {
           }}
         >
           <Toolbar />
+          <Typography
+              component="h1"
+              variant="h3"
+              color="inherit"
+              noWrap
+              align='center'
+              pt={3}
+              //sx={{ flexGrow: 1 }}
+            >
+              Resultados mais recentes
+            </Typography>
           <Container maxWidth="lg" sx={{ mt: 4, mb: 4 }}>
             <Grid container spacing={3}>
               {/* Chart */}
@@ -196,7 +207,7 @@ function DashboardContent() {
                 </Paper>
               </Grid>
             </Grid>
-            <Copyright sx={{ pt: 4 }} />
+            <Copyright sx={{ mt: 4 }} />
           </Container>
         </Box>
       </Box>
