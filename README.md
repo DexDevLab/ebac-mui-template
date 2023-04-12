@@ -20,7 +20,7 @@
 <a href=""><img src="https://img.shields.io/github/contributors/dexdevlab/ebac-mui-template?style=plastic" height="22" alt="Contributors"></a>
 
 <a href=""><img src="https://img.shields.io/github/forks/dexdevlab/ebac-mui-template?style=plastic" height="22" alt="Fork"></a>
-<a href=""><img src="https://img.shields.io/badge/version-2.0.0beta-140126?style=plastic" height="22" alt="Version"></a>
+<a href=""><img src="https://img.shields.io/badge/version-2.0.0-140126?style=plastic" height="22" alt="Version"></a>
 <a href="https://github.com/dexdevlab/ebac-mui-template/blob/main/LICENSE"><img src="https://img.shields.io/github/license/dexdevlab/ebac-mui-template?&style=plastic" height="22" alt="License"></a>
 
 <!-- || [Conteúdo](#section-conteudo) || [Características](#section-caracteristicas) || [Stack](#section-stack) || [Documentação](#section-documentacao) || [Instruções](#section-instrucoes) || -->
@@ -100,9 +100,20 @@ git clone https://github.com/dexdevlab/ebac-mui-template.git
 
 <br>
 
+### v2.0.0-230412
+
+- Ajustes de linting para ES6 / React
+- Ajuste de localização (idioma) do conteúdo da interface
+- Testes e validações
+
+### v2.0.0-230412-rc
+
+- Implementação de teste de componente
+
 ### v2.0.0-230411-beta
 
-- Publicação do repositório
+- Ajustes de linting para ES6 / React
+- Ajuste de localização (idioma) do conteúdo da interface
 
 ### v1.0.0-230410
 

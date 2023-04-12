@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`changes the class when hovered 1`] = `
+<p
+  className="MuiTypography-root MuiTypography-body2 MuiTypography-alignCenter css-1vl95ex-MuiTypography-root"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  Copyright © 
+  <a
+    color="inherit"
+    href="https://github.com/DexDevLab"
+    onClick={[Function]}
+    onMouseEnter={[Function]}
+    onTouchStart={[Function]}
+  >
+    Daniel Almeida
+  </a>
+   
+  2023
+  .
+</p>
+`;
+
+exports[`changes the class when hovered 2`] = `
+<p
+  className="MuiTypography-root MuiTypography-body2 MuiTypography-alignCenter css-1vl95ex-MuiTypography-root"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  Copyright © 
+  <a
+    color="inherit"
+    href="https://github.com/DexDevLab"
+    onClick={[Function]}
+    onMouseEnter={[Function]}
+    onTouchStart={[Function]}
+  >
+    Daniel Almeida
+  </a>
+   
+  2023
+  .
+</p>
+`;
+
+exports[`changes the class when hovered 3`] = `
+<p
+  className="MuiTypography-root MuiTypography-body2 MuiTypography-alignCenter css-1vl95ex-MuiTypography-root"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  Copyright © 
+  <a
+    color="inherit"
+    href="https://github.com/DexDevLab"
+    onClick={[Function]}
+    onMouseEnter={[Function]}
+    onTouchStart={[Function]}
+  >
+    Daniel Almeida
+  </a>
+   
+  2023
+  .
+</p>
+`;
