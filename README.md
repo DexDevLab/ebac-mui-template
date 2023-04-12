@@ -1,5 +1,5 @@
 <h1 align="center">Template Material UI para EBAC</h1>
-<p align=center><i align="center">Template utilizando Material UI como Design System para o exercício do Módulo 38 do curso "Profissão: Engenheiro Front-End" da Instituição EBAC - Escola Britânica de Artes Criativas e Tecnologia</i></p>
+<p align=center><i align="center">Template utilizando Material UI como Design System para o exercício dos Módulos 38 e 39 do curso "Profissão: Engenheiro Front-End" da Instituição EBAC - Escola Britânica de Artes Criativas e Tecnologia</i></p>
 
 <br>
 
@@ -20,7 +20,7 @@
 <a href=""><img src="https://img.shields.io/github/contributors/dexdevlab/ebac-mui-template" height="22" alt="Contributors"></a>
 
 <a href=""><img src="https://img.shields.io/github/forks/dexdevlab/ebac-mui-template" height="22" alt="Fork"></a>
-<a href=""><img src="https://img.shields.io/badge/version-2.0.2-140126" height="22" alt="Version"></a>
+<a href=""><img src="https://img.shields.io/badge/version-3.0.0beta-140126" height="22" alt="Version"></a>
 <a href="https://github.com/dexdevlab/ebac-mui-template/blob/main/LICENSE"><img src="https://img.shields.io/github/license/dexdevlab/ebac-mui-template" height="22" alt="License"></a>
 
 <!-- || [Conteúdo](#section-conteudo) || [Características](#section-caracteristicas) || [Stack](#section-stack) || [Documentação](#section-documentacao) || [Instruções](#section-instrucoes) || -->
@@ -42,7 +42,7 @@
 
 <br>
 
-O objetivo deste repositório é comportar o material necessário para servir de exemplo prático do exercício do Módulo 38 do curso "Profissão: Engenheiro Front-End" da Instituição EBAC - Escola Britânica de Artes Criativas e Tecnologia. Contém uma simulação de um trabalho de build, deployment, teste e revisão de um projeto contendo Material UI como Design System.
+O objetivo deste repositório é comportar o material necessário para servir de exemplo prático do exercício do Módulo 38 e do Módulo 39 do curso "Profissão: Engenheiro Front-End" da Instituição EBAC - Escola Britânica de Artes Criativas e Tecnologia. Contém uma simulação de um trabalho de build, deployment, teste e revisão de um projeto contendo Material UI como Design System.
 
 <hr>
 
@@ -99,6 +99,11 @@ git clone https://github.com/dexdevlab/ebac-mui-template.git
 </a>
 
 <br>
+
+### v3.0.0-230412-beta
+
+- Atualização da documentação
+- Implementação da automação de deploy pelo Github Pages
 
 ### v2.0.2-230412
 
