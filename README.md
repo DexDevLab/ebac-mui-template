@@ -5,23 +5,23 @@
 
 <div align="center">
 
-<a href="https://html.com"><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" height="22" alt="HTML5"/></a>
-<a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" height="22" alt="CSS3"/></a>
-<a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white" height="22" alt="NextJS"/></a>
-<a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white" height="22" alt="NodeJS"/></a>
-<a href="https://reactjs.org"><img src="https://img.shields.io/badge/react-black?style=plastic&logo=react&logoColor=white" height="22" alt="React"/></a>
+<a href="https://html.com"><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white" height="22" alt="HTML5"/></a>
+<a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white" height="22" alt="CSS3"/></a>
+<a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white" height="22" alt="NextJS"/></a>
+<a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white" height="22" alt="NodeJS"/></a>
+<a href="https://reactjs.org"><img src="https://img.shields.io/badge/react-black?logo=react&logoColor=white" height="22" alt="React"/></a>
 
-<a href=""><img src="https://img.shields.io/badge/maintenance-as--is-yellow.svg?style=plastic" height="22" alt="Maintenance-as-is"/></a>
-<a href=""><img src="https://img.shields.io/github/last-commit/dexdevlab/ebac-mui-template?style=plastic" height="22" alt="LastCommit"></a>
+<a href=""><img src="https://img.shields.io/badge/maintenance-as--is-yellow.svg" height="22" alt="Maintenance-as-is"/></a>
+<a href=""><img src="https://img.shields.io/github/last-commit/dexdevlab/ebac-mui-template" height="22" alt="LastCommit"></a>
 <a href=""><img src="https://snyk.io/test/github/dexdevlab/ebac-mui-template/badge.svg" height="22" alt="Snyk"/></a>
 
-<a href=""><img src="https://img.shields.io/github/repo-size/dexdevlab/ebac-mui-template?style=plastic" height="22" alt="RepoSize"/></a>
-<a href=""><img src="https://img.shields.io/github/languages/code-size/dexdevlab/ebac-mui-template?style=plastic" height="22" alt="CodeSize"/></a>
-<a href=""><img src="https://img.shields.io/github/contributors/dexdevlab/ebac-mui-template?style=plastic" height="22" alt="Contributors"></a>
+<a href=""><img src="https://img.shields.io/github/repo-size/dexdevlab/ebac-mui-template" height="22" alt="RepoSize"/></a>
+<a href=""><img src="https://img.shields.io/github/languages/code-size/dexdevlab/ebac-mui-template" height="22" alt="CodeSize"/></a>
+<a href=""><img src="https://img.shields.io/github/contributors/dexdevlab/ebac-mui-template" height="22" alt="Contributors"></a>
 
-<a href=""><img src="https://img.shields.io/github/forks/dexdevlab/ebac-mui-template?style=plastic" height="22" alt="Fork"></a>
-<a href=""><img src="https://img.shields.io/badge/version-2.0.1-140126?style=plastic" height="22" alt="Version"></a>
-<a href="https://github.com/dexdevlab/ebac-mui-template/blob/main/LICENSE"><img src="https://img.shields.io/github/license/dexdevlab/ebac-mui-template?&style=plastic" height="22" alt="License"></a>
+<a href=""><img src="https://img.shields.io/github/forks/dexdevlab/ebac-mui-template" height="22" alt="Fork"></a>
+<a href=""><img src="https://img.shields.io/badge/version-2.0.2-140126" height="22" alt="Version"></a>
+<a href="https://github.com/dexdevlab/ebac-mui-template/blob/main/LICENSE"><img src="https://img.shields.io/github/license/dexdevlab/ebac-mui-template" height="22" alt="License"></a>
 
 <!-- || [Conteúdo](#section-conteudo) || [Características](#section-caracteristicas) || [Stack](#section-stack) || [Documentação](#section-documentacao) || [Instruções](#section-instrucoes) || -->
 
@@ -99,6 +99,10 @@ git clone https://github.com/dexdevlab/ebac-mui-template.git
 </a>
 
 <br>
+
+### v2.0.2-230412
+
+- Atualização da documentação
 
 ### v2.0.1-230412
 
