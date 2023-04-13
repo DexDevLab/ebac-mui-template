@@ -16,12 +16,12 @@ import Toolbar from "@mui/material/Toolbar";
 import Typography from "@mui/material/Typography";
 import { styled } from "@mui/material/styles";
 import * as React from "react";
-import { MainListItems } from "../../components/ListItems/MainListItems";
-import { Chart } from "../../components/Chart";
-import { Copyright } from "../../components/Copyright";
-import { Deposits } from "../../components/Deposits";
-import { SecondaryListItems } from "../../components/ListItems/SecondaryListItems";
-import { Orders } from "../../components/Orders";
+import Chart from "./components/Chart";
+import Deposits from "./components/Deposits";
+import Orders from "./components/Orders";
+import Copyright from "./components/Copyright";
+import MainListItems from "./components/MainListItems";
+import SecondaryListItems from "./components/SecondaryListItems";
 
 const drawerWidth = 240;
 
@@ -129,9 +129,9 @@ function DashboardContent() {
         </Toolbar>
         <Divider />
         <List component="nav">
-          {MainListItems}
+          <MainListItems/>
           <Divider sx={{ my: 1 }} />
-          {SecondaryListItems}
+          <SecondaryListItems/>
         </List>
       </Drawer>
       <Box

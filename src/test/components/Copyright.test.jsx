@@ -2,8 +2,8 @@
  * @jest-environment jsdom
  */
 
-import { Copyright } from "../../components/Copyright";
 import renderer from "react-test-renderer";
+import Copyright from "../../pages/dashboard/components/Copyright";
 
 it("changes the class when hovered", () => {
   const component = renderer.create(

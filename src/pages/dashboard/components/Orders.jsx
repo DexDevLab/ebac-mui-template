@@ -4,7 +4,7 @@ import TableBody from "@mui/material/TableBody";
 import TableCell from "@mui/material/TableCell";
 import TableHead from "@mui/material/TableHead";
 import TableRow from "@mui/material/TableRow";
-import { Title } from "../Title";
+import Title from './Title';
 import * as React from "react";
 
 // Generate Order Data
@@ -59,7 +59,7 @@ function preventDefault(event) {
   event.preventDefault();
 }
 
-export function Orders() {
+export default function Orders() {
   return (
     <React.Fragment>
       <Title>Pedidos Recentes</Title>

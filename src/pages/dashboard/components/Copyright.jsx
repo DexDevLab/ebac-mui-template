@@ -2,7 +2,7 @@ import { Typography } from "@mui/material";
 import Link from "next/link";
 import * as React from "react";
 
-export function Copyright({page, ...props}) {
+export default function Copyright({page, ...props}) {
 
     const STATUS = {
       HOVERED: "hovered",

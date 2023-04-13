@@ -8,7 +8,7 @@ import {
   XAxis,
   YAxis,
 } from "recharts";
-import { Title } from "../Title";
+import Title from "./Title";
 
 // Generate Sales Data
 function createData(time, amount) {
@@ -27,7 +27,7 @@ const data = [
   createData("24:00", undefined),
 ];
 
-export function Chart() {
+export default function Chart() {
   const theme = useTheme();
 
   return (
