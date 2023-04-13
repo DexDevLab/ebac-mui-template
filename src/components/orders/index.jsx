@@ -1,10 +1,10 @@
-import Title from "@components/Title";
 import Link from "@mui/material/Link";
 import Table from "@mui/material/Table";
 import TableBody from "@mui/material/TableBody";
 import TableCell from "@mui/material/TableCell";
 import TableHead from "@mui/material/TableHead";
 import TableRow from "@mui/material/TableRow";
+import { Title } from "components";
 import * as React from "react";
 
 // Generate Order Data
@@ -59,7 +59,7 @@ function preventDefault(event) {
   event.preventDefault();
 }
 
-function Orders() {
+export function Orders() {
   return (
     <React.Fragment>
       <Title>Pedidos Recentes</Title>
@@ -91,5 +91,3 @@ function Orders() {
     </React.Fragment>
   );
 }
-
-export default Orders;

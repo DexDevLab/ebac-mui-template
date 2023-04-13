@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { useTheme } from '@mui/material/styles';
 import { LineChart, Line, XAxis, YAxis, Label, ResponsiveContainer } from 'recharts';
-import Title from '@components/Title';
+import { Title } from 'components';
 
 // Generate Sales Data
 function createData(time, amount) {
@@ -20,7 +20,7 @@ const data = [
   createData('24:00', undefined),
 ];
 
-function Chart() {
+export function Chart() {
   const theme = useTheme();
 
   return (
@@ -69,5 +69,3 @@ function Chart() {
     </React.Fragment>
   );
 }
-
-export default Chart;
