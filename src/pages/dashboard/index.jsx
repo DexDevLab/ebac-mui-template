@@ -1,8 +1,3 @@
-import Chart from "@components/Chart";
-import Deposits from "@components/Deposits";
-import Orders from "@components/Orders";
-import Copyright from "@components/copyright";
-import { mainListItems, secondaryListItems } from "@components/listItems";
 import ChevronLeftIcon from "@mui/icons-material/ChevronLeft";
 import MenuIcon from "@mui/icons-material/Menu";
 import NotificationsIcon from "@mui/icons-material/Notifications";
@@ -20,6 +15,14 @@ import Paper from "@mui/material/Paper";
 import Toolbar from "@mui/material/Toolbar";
 import Typography from "@mui/material/Typography";
 import { styled } from "@mui/material/styles";
+import {
+  Chart,
+  Copyright,
+  Deposits,
+  MainListItems,
+  Orders,
+  SecondaryListItems,
+} from "components";
 import * as React from "react";
 
 const drawerWidth = 240;
@@ -128,9 +131,9 @@ function DashboardContent() {
         </Toolbar>
         <Divider />
         <List component="nav">
-          {mainListItems}
+          {MainListItems}
           <Divider sx={{ my: 1 }} />
-          {secondaryListItems}
+          {SecondaryListItems}
         </List>
       </Drawer>
       <Box

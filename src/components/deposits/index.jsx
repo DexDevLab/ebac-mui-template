@@ -1,13 +1,13 @@
 import * as React from 'react';
 import Link from '@mui/material/Link';
 import Typography from '@mui/material/Typography';
-import Title from '@components/Title';
+import { Title } from 'components';
 
 function preventDefault(event) {
   event.preventDefault();
 }
 
-function Deposits() {
+export function Deposits() {
   return (
     <React.Fragment>
       <Title>Entradas Recentes</Title>
@@ -25,5 +25,3 @@ function Deposits() {
     </React.Fragment>
   );
 }
-
-export default Deposits;
