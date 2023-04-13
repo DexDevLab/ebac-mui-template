@@ -20,7 +20,7 @@
 <a href=""><img src="https://img.shields.io/github/contributors/dexdevlab/ebac-mui-template" height="22" alt="Contributors"></a>
 
 <a href=""><img src="https://img.shields.io/github/forks/dexdevlab/ebac-mui-template" height="22" alt="Fork"></a>
-<a href=""><img src="https://img.shields.io/badge/version-3.0.0beta-140126" height="22" alt="Version"></a>
+<a href=""><img src="https://img.shields.io/badge/version-3.0.0-140126" height="22" alt="Version"></a>
 <a href="https://github.com/dexdevlab/ebac-mui-template/blob/main/LICENSE"><img src="https://img.shields.io/github/license/dexdevlab/ebac-mui-template" height="22" alt="License"></a>
 
 <!-- || [Conteúdo](#section-conteudo) || [Características](#section-caracteristicas) || [Stack](#section-stack) || [Documentação](#section-documentacao) || [Instruções](#section-instrucoes) || -->
@@ -99,6 +99,16 @@ git clone https://github.com/dexdevlab/ebac-mui-template.git
 </a>
 
 <br>
+
+### v3.0.0-230412
+
+- Atualização da documentação
+- Implementação da automação de deploy pelo Github Pages
+
+### v3.0.0-230412-rc
+
+- Atualização da documentação
+- Implementação da automação de deploy pelo Github Pages
 
 ### v3.0.0-230412-beta
 
