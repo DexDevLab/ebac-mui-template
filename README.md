@@ -20,7 +20,7 @@
 <a href=""><img src="https://img.shields.io/github/contributors/dexdevlab/ebac-mui-template" height="22" alt="Contributors"></a>
 
 <a href=""><img src="https://img.shields.io/github/forks/dexdevlab/ebac-mui-template" height="22" alt="Fork"></a>
-<a href=""><img src="https://img.shields.io/badge/version-3.1.1-140126" height="22" alt="Version"></a>
+<a href=""><img src="https://img.shields.io/badge/version-3.1.2-140126" height="22" alt="Version"></a>
 <a href="https://github.com/dexdevlab/ebac-mui-template/blob/main/LICENSE"><img src="https://img.shields.io/github/license/dexdevlab/ebac-mui-template" height="22" alt="License"></a>
 
 <!-- || [Conteúdo](#section-conteudo) || [Características](#section-caracteristicas) || [Stack](#section-stack) || [Documentação](#section-documentacao) || [Instruções](#section-instrucoes) || -->
@@ -99,6 +99,11 @@ git clone https://github.com/dexdevlab/ebac-mui-template.git
 </a>
 
 <br>
+
+### v3.1.2-230412
+
+- Restruturação dos imports para caminhos relativos sem aliases
+- Remoção do index.js da componentização dinâmica
 
 ### v3.1.1-230412
 

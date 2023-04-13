@@ -4,7 +4,7 @@ import TableBody from "@mui/material/TableBody";
 import TableCell from "@mui/material/TableCell";
 import TableHead from "@mui/material/TableHead";
 import TableRow from "@mui/material/TableRow";
-import { Title } from "../index";
+import { Title } from "../Title";
 import * as React from "react";
 
 // Generate Order Data

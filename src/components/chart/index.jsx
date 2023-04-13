@@ -8,7 +8,7 @@ import {
   XAxis,
   YAxis,
 } from "recharts";
-import { Title } from "../index";
+import { Title } from "../Title";
 
 // Generate Sales Data
 function createData(time, amount) {
