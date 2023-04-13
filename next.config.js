@@ -15,5 +15,8 @@ module.exports = (phase) => {
       ];
     },
     reactStrictMode: true,
+    images: {
+      unoptimized: true,
+    },
   };
 };
