@@ -15,6 +15,7 @@ import Paper from "@mui/material/Paper";
 import Toolbar from "@mui/material/Toolbar";
 import Typography from "@mui/material/Typography";
 import { styled } from "@mui/material/styles";
+import * as React from "react";
 import {
   Chart,
   Copyright,
@@ -22,8 +23,7 @@ import {
   MainListItems,
   Orders,
   SecondaryListItems,
-} from "components";
-import * as React from "react";
+} from "../../components";
 
 const drawerWidth = 240;
 
