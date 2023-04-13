@@ -16,10 +16,10 @@ import Toolbar from "@mui/material/Toolbar";
 import Typography from "@mui/material/Typography";
 import { styled } from "@mui/material/styles";
 import * as React from "react";
+import { MainListItems } from "../../components/ListItems/MainListItems";
 import { Chart } from "../../components/Chart";
 import { Copyright } from "../../components/Copyright";
 import { Deposits } from "../../components/Deposits";
-import { MainListItems } from "../../components/ListItems/MainListItems";
 import { SecondaryListItems } from "../../components/ListItems/SecondaryListItems";
 import { Orders } from "../../components/Orders";
 
