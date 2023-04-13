@@ -20,7 +20,7 @@
 <a href=""><img src="https://img.shields.io/github/contributors/dexdevlab/ebac-mui-template" height="22" alt="Contributors"></a>
 
 <a href=""><img src="https://img.shields.io/github/forks/dexdevlab/ebac-mui-template" height="22" alt="Fork"></a>
-<a href=""><img src="https://img.shields.io/badge/version-4.0.0-140126" height="22" alt="Version"></a>
+<a href=""><img src="https://img.shields.io/badge/version-5.0.0-140126" height="22" alt="Version"></a>
 <a href="https://github.com/dexdevlab/ebac-mui-template/blob/main/LICENSE"><img src="https://img.shields.io/github/license/dexdevlab/ebac-mui-template" height="22" alt="License"></a>
 
 <!-- || [Conteúdo](#section-conteudo) || [Características](#section-caracteristicas) || [Stack](#section-stack) || [Documentação](#section-documentacao) || [Instruções](#section-instrucoes) || -->
@@ -84,11 +84,17 @@ git clone https://github.com/dexdevlab/ebac-mui-template.git
 
 2 - Execute `npm install` para carregar as dependências
 
-<br>
+#### Testando a aplicação
 
-### Testando a aplicação
+Execute `npm run dev` do terminal dentro do diretório do projeto. A aplicação irá ser executada na porta 3000 como padrão.
 
-1 - Execute `npm run dev` do terminal dentro do diretório do projeto. A aplicação irá ser executada na porta 3000 como padrão.
+#### Usando Jest
+
+Execute `npm run test` do terminal dentro do diretório do projeto. Um teste será performado.
+
+#### Realizando Deploy
+
+Simplesmente publique o commit normalmente no branch principal (main). Com isso, um deploy no Github Pages será realizado via Github Actions.
 
 <hr>
 
@@ -99,6 +105,16 @@ git clone https://github.com/dexdevlab/ebac-mui-template.git
 </a>
 
 <br>
+
+### v5.0.0-230413
+
+- Atualização da documentação
+- Restruturação dos estilos para dentro de `/pages`
+- Incorporação da página de Dashboard como componente de `index.js`
+
+### v4.1.0-230413
+
+- Refatoração do index.js
 
 ### v4.0.0-230413
 
