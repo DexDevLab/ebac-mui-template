@@ -20,7 +20,7 @@
 <a href=""><img src="https://img.shields.io/github/contributors/dexdevlab/ebac-mui-template" height="22" alt="Contributors"></a>
 
 <a href=""><img src="https://img.shields.io/github/forks/dexdevlab/ebac-mui-template" height="22" alt="Fork"></a>
-<a href=""><img src="https://img.shields.io/badge/version-3.1.4-140126" height="22" alt="Version"></a>
+<a href=""><img src="https://img.shields.io/badge/version-3.2.0-140126" height="22" alt="Version"></a>
 <a href="https://github.com/dexdevlab/ebac-mui-template/blob/main/LICENSE"><img src="https://img.shields.io/github/license/dexdevlab/ebac-mui-template" height="22" alt="License"></a>
 
 <!-- || [Conteúdo](#section-conteudo) || [Características](#section-caracteristicas) || [Stack](#section-stack) || [Documentação](#section-documentacao) || [Instruções](#section-instrucoes) || -->
@@ -59,7 +59,7 @@ O objetivo deste repositório é comportar o material necessário para servir de
 - **Framework Principal:** [Node.js](https://nodejs.org/en/docs/)
 - **Framework estrutural:** [Next.js](https://nextjs.org/docs/getting-started)
 - **Framework de design:** [Material UI](https://mui.com/material-ui/getting-started/overview/)
-- **Gerenciador de Bibliotecas:** [Yarn](https://yarnpkg.com/getting-started)
+- **Gerenciador de Bibliotecas:** [npm](https://www.npmjs.com)
 - **Bibliotecas:** Para uma lista completa de bibliotecas e dependências nos mais variados escopos, conferir o arquivo [package.json](https://github.com/dexdevlab/github-repo-template/blob/main/package.json).
 
 <hr>
@@ -82,13 +82,13 @@ git clone https://github.com/dexdevlab/ebac-mui-template.git
 
 ```
 
-2 - Execute `npm init` ou `yarn` para carregar as dependências
+2 - Execute `npm install` para carregar as dependências
 
 <br>
 
 ### Testando a aplicação
 
-1 - Execute `yarn dev` ou `npm run dev` do terminal dentro do diretório do projeto. A aplicação irá ser executada na porta 3000 como padrão.
+1 - Execute `npm run dev` do terminal dentro do diretório do projeto. A aplicação irá ser executada na porta 3000 como padrão.
 
 <hr>
 
@@ -99,6 +99,10 @@ git clone https://github.com/dexdevlab/ebac-mui-template.git
 </a>
 
 <br>
+
+### v3.2.0-230412
+
+- Alteração de Yarn para npm como gerenciador de bibliotecas
 
 ### v3.1.4-230412
 
