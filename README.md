@@ -13,20 +13,15 @@
 
 <a href=""><img src="https://img.shields.io/badge/maintenance-as--is-yellow.svg" height="22" alt="Maintenance-as-is"/></a>
 <a href=""><img src="https://img.shields.io/github/last-commit/dexdevlab/ebac-mui-template" height="22" alt="LastCommit"></a>
-<a href=""><img src="https://snyk.io/test/github/dexdevlab/ebac-mui-template/badge.svg" height="22" alt="Snyk"/></a>
 
 <a href=""><img src="https://img.shields.io/github/repo-size/dexdevlab/ebac-mui-template" height="22" alt="RepoSize"/></a>
 <a href=""><img src="https://img.shields.io/github/languages/code-size/dexdevlab/ebac-mui-template" height="22" alt="CodeSize"/></a>
-<a href=""><img src="https://img.shields.io/github/contributors/dexdevlab/ebac-mui-template" height="22" alt="Contributors"></a>
 
 <a href=""><img src="https://img.shields.io/github/forks/dexdevlab/ebac-mui-template" height="22" alt="Fork"></a>
-<a href=""><img src="https://img.shields.io/badge/version-5.0.0-140126" height="22" alt="Version"></a>
+<a href=""><img src="https://img.shields.io/github/v/release/dexdevlab/ebac-mui-template" height="22" alt="Version"/></a>
 <a href="https://github.com/dexdevlab/ebac-mui-template/blob/main/LICENSE"><img src="https://img.shields.io/github/license/dexdevlab/ebac-mui-template" height="22" alt="License"></a>
 
-<!-- || [Conteúdo](#section-conteudo) || [Características](#section-caracteristicas) || [Stack](#section-stack) || [Documentação](#section-documentacao) || [Instruções](#section-instrucoes) || -->
-
 || [Conteúdo](#section-conteudo) || [Stack](#section-stack) || [Instruções](#section-instrucoes) ||
-<!-- || [Variáveis de Ambiente](#section-vars) || [Notas de versão](#section-changelog) || [Autores](#section-autores) || [Contato](#section-contato) || [Licença](#section-licenca) || -->
 
 || [Notas de versão](#section-changelog) || [Autores](#section-autores) || [Contato](#section-contato) || [Licença](#section-licenca) ||
 
@@ -105,6 +100,14 @@ Simplesmente publique o commit normalmente no branch principal (main). Com isso,
 </a>
 
 <br>
+
+### v5.1.0-240306
+
+- Adicionado script de limpeza do Yarn para o repositório
+- Adicionado script de limpeza do cache do git
+- Removida integração com o Snyk para o repositório
+- Ajuste de sintaxe e linting do workflow do Github Actions
+- Atualização do workflow para uso do Next.js e publicação no Github Pages usando Github Actions
 
 ### v5.0.0-230413
 

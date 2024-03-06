@@ -1,7 +1,7 @@
 {
   "name": "ebac-mui-template",
   "description": "Template utilizando Material UI como Design System para o exercício dos Módulos 38 e 39 do curso 'Profissão: Engenheiro Front-End' da Instituição EBAC - Escola Britânica de Artes Criativas e Tecnologia",
-  "version": "v5.0.0-230413",
+  "version": "v5.1.0-240306",
   "license": "MIT",
   "private": true,
   "homepage": "https://dexdevlab.github.io/ebac-mui-template/",
@@ -11,7 +11,9 @@
     "start": "next start",
     "lint": "next lint",
     "test": "jest",
-    "export": "next export"
+    "export": "next export",
+    "clean": "yarn autoclean --force",
+    "git:clear": "bash cleargitcache.sh"
   },
   "dependencies": {
     "@emotion/react": "^11.10.6",
