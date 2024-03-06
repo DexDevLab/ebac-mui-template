@@ -101,6 +101,12 @@ Simplesmente publique o commit normalmente no branch principal (main). Com isso,
 
 <br>
 
+### v5.2.0-240306
+
+- Removido script de limpeza do Yarn
+- Adicionado script de atualização do caniuse
+- Ajuste no workflow para uso do Next.js e publicação no Github Pages usando Github Actions
+
 ### v5.1.0-240306
 
 - Adicionado script de limpeza do Yarn para o repositório
